@@ -1,0 +1,8 @@
+site_name: djajcevic-demo1-bff
+
+nav:
+  - About: index.md
+
+plugins:
+  - search
+  - techdocs-core
